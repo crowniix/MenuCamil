@@ -1,0 +1,22 @@
+
+#shiny-orange {
+    -fx-background-color: 
+        linear-gradient(#313131, #1d1d1c),
+        linear-gradient(#ffef84, #f2ba44),
+        linear-gradient(#ffea6a, #efaa22),
+        linear-gradient(#f5e068 0%, #f8a202 50%, #ee790b 100%),
+        linear-gradient(from 0% 0% to 15% 50%, rgba(241, 252, 142, 0.9), rgba(255,255,255,0));
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #5e2b0a;
+    -fx-font-weight: bold;
+    -fx-font-size: 14px;
+    -fx-padding: 10 20 10 20;
+}
+
+#shiny-orange:hover {
+    -fx-background-color: #f8a202;
+  }
+
+
+
